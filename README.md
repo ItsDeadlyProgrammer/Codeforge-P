@@ -9,6 +9,7 @@
 >
 > 👨‍💻 **Recruiters & Technical Evaluators:**  
 > [**Request source code access →**](https://github.com/ItsDeadlyProgrammer/CodeForge)
+> 📧 **Email:** [hvsr29march2004@gmail.com](mailto:hvsr29march2004@gmail.com)
 
 # ⚡ CodeForge — Full-Stack Competitive Programming Platform
 
