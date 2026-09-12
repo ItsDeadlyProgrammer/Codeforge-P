@@ -1,8 +1,14 @@
 
-
-<p align="center">
-**This repository serves as the public technical portfolio and architecture documentation for CodeForge. To maintain implementation integrity, the complete source code is hosted in a private repository. Technical evaluators and recruiters are welcome to [request source code access here](https://github.com/ItsDeadlyProgrammer/CodeForge) or contact the author for a professional review.**
-</p>
+> ## 🔒 CodeForge Source Code
+>
+> **Public Portfolio • Private Implementation**
+>
+> 📚 This repository contains the **technical documentation, architecture, demos, and project overview** of CodeForge.
+>
+> 🔐 The **complete source code is private** to maintain implementation integrity.
+>
+> 👨‍💻 **Recruiters & Technical Evaluators:**  
+> [**Request source code access →**](https://github.com/ItsDeadlyProgrammer/CodeForge)
 
 # ⚡ CodeForge — Full-Stack Competitive Programming Platform
 
