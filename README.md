@@ -108,7 +108,7 @@ Explore the application in action:
 *   🎬 [**Video Walkthrough**](demo/README.md)
 
 <p align="center">
-  <video src="demo/Codeforge-video.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"></video>
+  <img src="demo/Codeforge.gif" width="100%" alt="CodeForge Product Walkthrough">
 </p>
 
 ---
