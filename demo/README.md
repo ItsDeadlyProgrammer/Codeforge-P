@@ -18,7 +18,9 @@ This directory contains the operational demonstration, media assets, and active 
 Below is the live platform demonstration. It showcases problem fetching via external connectors, solution staging, and isolated execution telemetry updates.
 
 <p align="center">
-  <video src="Codeforge-video.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"></video>
+  <a href="./Codeforge-video.mp4">
+    ▶️ <strong>Watch the CodeForge Product Walkthrough</strong>
+  </a>
 </p>
 
 ### 📝 Core User Workflow Illustrated
