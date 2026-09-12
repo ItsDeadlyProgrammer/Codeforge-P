@@ -41,6 +41,20 @@ Unlike standard tutorial projects, CodeForge implements a complete judging pipel
 
 ---
 
+## 🌐 Live Demo & Media
+
+Explore the application in action:
+
+*   🔗 [**Web Demo (WASM)**](https://super-lolly-fd22a7.netlify.app/)
+*   🔗 [**Backend Health Check**](https://codeforge-euxv.onrender.com/health)
+*   🖼️ [**UI Screenshot Gallery**](screenshots/README.md)
+*   🎬 [**Video Walkthrough**](demo/README.md)
+
+<p align="center">
+  <img src="demo/Codeforge.gif" width="100%" alt="CodeForge Product Walkthrough">
+</p>
+---
+
 ## 🏗️ System Architecture & Engineering
 
 CodeForge is built on a decoupled, event-driven architecture designed for scalability and reliability.
@@ -104,27 +118,9 @@ A futuristic "Quantum UI" theme built with **Compose Multiplatform**:
 
 ---
 
-## 🌐 Live Demo & Media
-
-Explore the application in action:
-
-*   🔗 [**Web Demo (WASM)**](https://super-lolly-fd22a7.netlify.app/)
-*   🔗 [**Backend Health Check**](https://codeforge-euxv.onrender.com/health)
-*   🖼️ [**UI Screenshot Gallery**](screenshots/README.md)
-*   🎬 [**Video Walkthrough**](demo/README.md)
-
-<p align="center">
-  <img src="demo/Codeforge.gif" width="100%" alt="CodeForge Product Walkthrough">
-</p>
-
----
-
 ## 👨‍💻 Author
 
 **Harshvardhan Singh**  
-B.Tech Computer Science Engineering  
-IIIT Bhopal  
-
 [![GitHub](https://img.shields.io/badge/GitHub-ItsDeadlyProgrammer-blue)](https://github.com/ItsDeadlyProgrammer)
 
 ---
