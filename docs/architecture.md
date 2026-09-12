@@ -2,7 +2,7 @@
 
 CodeForge is a full-stack, distributed online judge platform designed to ingest, queue, and evaluate competitive programming solutions. The system decouples the HTTP api ingestion layer from the execution runtime through an asynchronous Redis-backed broker.
 
-![CodeForge System Architecture](../architecture/architecture.png)
+
 
 ---
 
